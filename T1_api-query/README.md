@@ -1,4 +1,5 @@
 # TASK 1: GeoIP API Query
+HTTP Requests, functions, Lists, For loops, While loops, User input, Validation
 
 Steps: 
 
