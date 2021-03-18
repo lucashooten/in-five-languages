@@ -1,13 +1,4 @@
 /* 
-An unanticipated introduction to async programming and Node.js
-
-This was my first time writing any form of javascript; it was notably
-more difficult to start learning that some of the others. Topics like
-asyncronous execution, Nodejs limitations, objects vs promises, callbacks, 
-and ES6/ES7 Support were neccessary to achieve the desired end result.
-I chose to keep some degree of async, as a nod javascripts intended purpose.
-
-I may choose to involve a browser in the future. 
 
 */
 
